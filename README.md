@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo
 
-Things you may want to cover:
+Todo allows users to create a list and cross off list items.
 
-* Ruby version
+Ruby version
+2.5.3
 
-* System dependencies
+Try it out
 
-* Configuration
+Go to http://todo-courtney-fink.herokuapp.com/ to try out the functionality.
 
-* Database creation
+Tools Used
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-jQuery
+-JSON
+-rspec
