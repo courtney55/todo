@@ -16,3 +16,5 @@ Tools Used
 -jQuery
 -JSON
 -rspec
+
+<img width="1199" alt="todo index page" src="https://user-images.githubusercontent.com/49853567/80624452-b09b3a80-8a19-11ea-931b-3b2f4bd9398f.png">
